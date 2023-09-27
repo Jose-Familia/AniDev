@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import './Components/style.css';
+import './components/style.css';
 import { AnimeList } from "./components/AnimeList";
 import { AnimeInfo } from "./components/AnimeInfo";
 import { AddToList } from "./components/AddToList";
