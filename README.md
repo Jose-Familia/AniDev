@@ -58,7 +58,12 @@ La aplicación utiliza varios componentes principales para su funcionamiento:
    ```
 
 --------------------------------------------
+
+
 Created by [Jose Familia](https://github.com/Jose-Familia) 💫
+<br/> Como solucion alternativa al challenge de Alura Latam "AluraFlix".
+
+
 
    
 
